@@ -1,0 +1,9 @@
+{
+    "name": "QymOS STM32 Buzzer driver (simple gpio, pwm and timers)",
+    "version": "0.0.1",
+    "authors": {
+        "name": "Denis Kazachenkov",
+        "email": "basson30@gmail.com",
+        "url": "https://github.com/basson/qymos-stm32-driver-buzzer"
+    }
+}
