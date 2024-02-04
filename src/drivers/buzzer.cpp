@@ -1,4 +1,4 @@
-#include "../include/buzzer.hpp"
+#include "../include/drivers/buzzer.hpp"
 
 namespace qymos
 {
